@@ -1,7 +1,5 @@
 
-  # AgriSafe UI Design Prompt
-
-  This is a code bundle for AgriSafe UI Design Prompt. The original project is available at https://www.figma.com/design/HTbPQF8QfIN30ihaJ5K8Jq/AgriSafe-UI-Design-Prompt.
+  # AgriSafe
 
   ## Running the code
 
